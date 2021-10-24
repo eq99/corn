@@ -1,2 +1,2 @@
-# openLearning
-openLearning is a self learning note book. 
+# corn
+corn is a self learning note book. 
