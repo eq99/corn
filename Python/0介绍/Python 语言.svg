@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="240"
+   height="240"
+   viewBox="0 0 63.499999 63.500002"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Python 语言.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="2.2652217"
+     inkscape:cx="28.253306"
+     inkscape:cy="224.26061"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2225"
+       style="fill:#0088aa"
+       transform="matrix(1.2603522,0,0,1.2603522,6.6968278,4.9806469)">
+      <path
+         id="rect843"
+         style="fill:#0088aa;stroke-width:0.547079;stroke-linejoin:round;paint-order:fill markers stroke"
+         d="m 31.720703,51.074219 v 44.878906 l 18.224556,-4e-6 L 49.494297,86 C 49.1812,79.089678 54.127016,73.139084 61.044151,73.201514 l 34.586708,0.312158 c 3.242389,0.02926 5.853521,-2.541213 5.853521,-5.697266 V 51.074219 Z"
+         transform="scale(0.26458333)"
+         sodipodi:nodetypes="cccsssscc" />
+      <path
+         id="path1313"
+         style="fill:#0088aa;stroke-width:0.189;stroke-linejoin:round;paint-order:fill markers stroke"
+         d="m 10.654338,19.450361 a 2.2618165,5.9371495 0 0 1 -2.2618161,5.93715 2.2618165,5.9371495 0 0 1 -2.2618165,-5.93715 2.2618165,5.9371495 0 0 1 2.2618165,-5.937149 2.2618165,5.9371495 0 0 1 2.2618161,5.937149 z" />
+    </g>
+    <g
+       id="g2230"
+       style="fill:#0088aa"
+       transform="matrix(1.2603522,0,0,1.2603522,6.6968278,4.9806469)">
+      <rect
+         style="fill:#0088aa;stroke:none;stroke-width:0.180004;stroke-linejoin:round;paint-order:fill markers stroke"
+         id="rect1035"
+         width="11.360166"
+         height="4.6100712"
+         x="15.490728"
+         y="7.5645351"
+         ry="0.41295886" />
+      <ellipse
+         style="fill:#0088aa;stroke:none;stroke-width:0.17596;stroke-linejoin:round;paint-order:fill markers stroke"
+         id="path1709"
+         cx="21.170811"
+         cy="8.0600853"
+         rx="5.6800833"
+         ry="1.8094847" />
+      <circle
+         style="fill:#0088aa;stroke:none;stroke-width:0.189;stroke-linejoin:round;paint-order:fill markers stroke"
+         id="path1995"
+         cx="17.839821"
+         cy="9.8284216"
+         r="1.073693" />
+    </g>
+    <rect
+       style="fill:#0088aa;stroke:none;stroke-width:0.130991;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="rect7248"
+       width="8.6467104"
+       height="4.6944108"
+       x="31.891703"
+       y="17.419781"
+       ry="8.9509365e-07" />
+    <g
+       id="g7479"
+       transform="matrix(-1.2603522,0,0,-1.2603522,58.055625,55.186113)"
+       style="fill:#ffd42a">
+      <path
+         id="path7475"
+         style="fill:#ffd42a;stroke-width:0.547079;stroke-linejoin:round;paint-order:fill markers stroke"
+         d="m 31.720703,51.074219 v 44.878906 l 18.224556,-4e-6 L 49.494297,86 C 49.1812,79.089678 54.127016,73.139084 61.044151,73.201514 l 34.586708,0.312158 c 3.242389,0.02926 5.853521,-2.541213 5.853521,-5.697266 V 51.074219 Z"
+         transform="scale(0.26458333)"
+         sodipodi:nodetypes="cccsssscc" />
+      <path
+         id="path7477"
+         style="fill:#ffd42a;stroke-width:0.189;stroke-linejoin:round;paint-order:fill markers stroke"
+         d="m 10.654338,19.450361 a 2.2618165,5.9371495 0 0 1 -2.2618161,5.93715 2.2618165,5.9371495 0 0 1 -2.2618165,-5.93715 2.2618165,5.9371495 0 0 1 2.2618165,-5.937149 2.2618165,5.9371495 0 0 1 2.2618161,5.937149 z" />
+    </g>
+    <g
+       id="g7487"
+       transform="matrix(-1.2603522,0,0,-1.2603522,58.055625,55.186113)"
+       style="fill:#ffd42a">
+      <rect
+         style="fill:#ffd42a;stroke:none;stroke-width:0.180004;stroke-linejoin:round;paint-order:fill markers stroke"
+         id="rect7481"
+         width="11.360166"
+         height="4.6100712"
+         x="15.490728"
+         y="7.5645351"
+         ry="0.41295886" />
+      <ellipse
+         style="fill:#ffd42a;stroke:none;stroke-width:0.17596;stroke-linejoin:round;paint-order:fill markers stroke"
+         id="ellipse7483"
+         cx="21.170811"
+         cy="8.0600853"
+         rx="5.6800833"
+         ry="1.8094847" />
+      <circle
+         style="fill:#ffd42a;stroke:none;stroke-width:0.189;stroke-linejoin:round;paint-order:fill markers stroke"
+         id="circle7485"
+         cx="17.839821"
+         cy="9.8284216"
+         r="1.073693" />
+    </g>
+    <rect
+       style="fill:#ffd42a;stroke:none;stroke-width:0.130991;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="rect7489"
+       width="8.6467104"
+       height="4.6944108"
+       x="-32.860748"
+       y="-42.746975"
+       ry="8.9509365e-07"
+       transform="scale(-1)" />
+    <circle
+       style="fill:#ffffff;stroke:none;stroke-width:0.238207;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="path7653"
+       cx="36.065651"
+       cy="42.887779"
+       r="1.1776974" />
+    <circle
+       style="fill:#ffffff;stroke:none;stroke-width:0.238207;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="circle7791"
+       cx="28.876558"
+       cy="17.396975"
+       r="1.1776974" />
+  </g>
+</svg>
