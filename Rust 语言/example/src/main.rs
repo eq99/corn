@@ -1,11 +1,11 @@
 fn main() {
-    let name = String::from("Rust");
-    println!("before: {}", name);
-    let greeting = hello(&name);
-    println!("{}", greeting);
-    println!("after: {}", name);
-}
+    let mut hello = String::from("你好");
+    hello.push_str(", rust");
+    println!("{:?}", hello); // "你好, rust"
 
-fn hello(name: &String) -> String {
-    format!("Hello, {}", name)
+    println!("{:?}", hello + ", 嗯mua"); // "你好, rust, 嗯mua"
+
+    let mut result = String::new();
+    result = format!("{} + {} = {}", 600, 66, 600 + 66);
+    println!("{:?}", result); // "600 + 66 = 666"
 }
