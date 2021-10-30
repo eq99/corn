@@ -1,11 +1,17 @@
-fn main() {
-    let mut hello = String::from("你好");
-    hello.push_str(", rust");
-    println!("{:?}", hello); // "你好, rust"
+use std::error::Error;
+use std::fs::File;
+use std::io;
+use std::io::Read;
 
-    println!("{:?}", hello + ", 嗯mua"); // "你好, rust, 嗯mua"
+fn read_config_from_file() -> Result<String, io::Error> {
+    let mut f = File::open("config.toml")?;
+    let mut s = String::new();
+    f.read_to_string(&mut s)?;
+    Ok(s)
+}
 
-    let mut result = String::new();
-    result = format!("{} + {} = {}", 600, 66, 600 + 66);
-    println!("{:?}", result); // "600 + 66 = 666"
+fn main() -> Result<(), Box<dyn Error>> {
+    let hello = read_config_from_file()?;
+    println!("{:?}", hello);
+    Ok(())
 }
