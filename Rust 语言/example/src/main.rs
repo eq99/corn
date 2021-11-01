@@ -1,16 +1,10 @@
-fn longest<'a>(x: &'a str, y: &'a str) -> &'a str {
-    if x.bytes().len() > y.bytes().len() {
-        x
-    } else {
-        y
-    }
-}
-
 fn main() {
-    let alice = "Alice";
-    let bob = "Bob";
-
-    println!("{}", longest(alice, bob));
+    print!(
+        "{}, {}, {}",
+        (1..9).fold(0, |acc, _| acc + 1),
+        (1..9).fold(0, |acc, x| acc + x),
+        (1..9).fold(1, |acc, x| acc * x),
+    );
 }
 
 /*
