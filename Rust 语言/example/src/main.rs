@@ -1,17 +1,29 @@
-use std::error::Error;
-use std::fs::File;
-use std::io;
-use std::io::Read;
-
-fn read_config_from_file() -> Result<String, io::Error> {
-    let mut f = File::open("config.toml")?;
-    let mut s = String::new();
-    f.read_to_string(&mut s)?;
-    Ok(s)
+fn longest<'a>(x: &'a str, y: &'a str) -> &'a str {
+    if x.bytes().len() > y.bytes().len() {
+        x
+    } else {
+        y
+    }
 }
 
-fn main() -> Result<(), Box<dyn Error>> {
-    let hello = read_config_from_file()?;
-    println!("{:?}", hello);
-    Ok(())
+fn main() {
+    let alice = "Alice";
+    let bob = "Bob";
+
+    println!("{}", longest(alice, bob));
 }
+
+/*
+#[derive(Debug)]
+struct Point(i32, i32);
+
+impl Point {
+    fn create_point_ref(x: i32, y: i32) -> &Self {
+        &Point(x, y)
+    }
+}
+fn main() {
+    let ref_p = Point::create_point_ref(1, 2);
+    println!("{:?}", ref_p);
+}
+*/
