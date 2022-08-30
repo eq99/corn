@@ -1,4 +1,4 @@
-# Rust 语言是什么
+# The Rust Programming Language
 
 根据 [Rust 语言官网](https://www.rust-lang.org/) 的描述：Rust 可以让任何人构建可靠高效的程序。Rust 语言是一门系统性语言，它有如下特点：
 
@@ -8,7 +8,7 @@
 
 现在关于 Rust 语言的争论有如下几点：
 
-# Rust 语言难学
+# Rust 语言难学吗
 
 大家都觉得 Rust 语言是难学语言。它难在哪里呢？自己的心得体会是：Rust 主要难在“新”。大家觉得 C/C++，Java，C#，golang，Python， JS 这些语言容易是见得多了， 熟能生巧。其实这些语言第一次学都不简单，C/C++  是很多人的学习的第一门语言，回忆一下初学的感觉，打死我也不想再经历一遍。第一次学习编程语言都会很难，这是因为除了编程语言方面的知识，其他的知识点也需要学习，例如：
 
@@ -77,4 +77,3 @@ Rust 语言难学可以从两方面来讲：
 Awesome List：[Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 
 Rust 教程的特点是有很多 The xxx Book，大家可以搜搜自己感兴趣的主题。
-
